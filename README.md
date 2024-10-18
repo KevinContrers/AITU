@@ -1,4 +1,6 @@
-# [AI TEACH U](https://aiteachu.com/)
+# [AI TEACH U](https://aiteachu.com/) <a href="https://www.instagram.com/aiteachu_sv" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+
+
 
 **IT Project Manager**  
 *November 2018 – November 2021*  

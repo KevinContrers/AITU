@@ -1,4 +1,4 @@
-# AI TEACH U S.A de C.V. and AI TEACH U L.L.C.  
+# AI TEACH U 
 **IT Project Manager**  
 *November 2018 – November 2021*  
 

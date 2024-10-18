@@ -29,7 +29,8 @@
 *November 2021 – November 2024*  
 
 ### Key Responsibilities:
-- **International Training Project**: Managed a technology training program for over **1,000 inmates** in **El Salvador**, developing secure programs focused on **hardware assembly** and facilitating educational training.  
+- **International Training Project**: Managed a technology training program for over **1,000 inmates** in **El Salvador**, developing secure programs focused on **hardware assembly** and facilitating educational training.
+https://youtu.be/SNmzjxSESFU?si=YnI-EZrRCaRfyWWg 
     - Designed **training materials** and delivered classes, leveraging tools such as **software for app testing** and **hardware assembly training**.  
     - Oversaw the successful assembly of **2,500 tablets**, which were used both for in-house educational purposes and sold commercially.
 https://youtu.be/4gCQLVmc6vg?si=rLNU4P06MTX4qIhY

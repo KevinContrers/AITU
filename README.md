@@ -1,4 +1,5 @@
-# AI TEACH U 
+# [AI TEACH U](https://aiteachu.com/)
+
 **IT Project Manager**  
 *November 2018 – November 2021*  
 

@@ -31,7 +31,9 @@
 ### Key Responsibilities:
 - **International Training Project**: Managed a technology training program for over **1,000 inmates** in **El Salvador**, developing secure programs focused on **hardware assembly** and facilitating educational training.  
     - Designed **training materials** and delivered classes, leveraging tools such as **software for app testing** and **hardware assembly training**.  
-    - Oversaw the successful assembly of **2,500 tablets**, which were used both for in-house educational purposes and sold commercially.  
+    - Oversaw the successful assembly of **2,500 tablets**, which were used both for in-house educational purposes and sold commercially.
+https://youtu.be/4gCQLVmc6vg?si=rLNU4P06MTX4qIhY
+
 - **Facility Setup & Compliance**: Supervised the construction and setup of secure facilities in **Santa Ana Penitentiary**, ensuring compliance with industry security standards for a **$320,000 project**.  
 - **Pandemic Response & Security**: Adapted company strategies to continue operations during the pandemic by transitioning classes online. Trained teams on secure usage of **remote communication tools**, ensuring compliance with cybersecurity best practices.  
     - Paused the inmate training program during lockdowns, but maintained operational security and continuity.  
